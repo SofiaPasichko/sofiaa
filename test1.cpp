@@ -24,5 +24,4 @@ printf("Hello\n");
 printf( "The compound interest for a principal amount of %.2f at a rate of %.2f%% compounded %d times a year for %d years is: %.2f\n", amount, rate*100, period, years, q);
 printf("Total is: %.2f", a);
 return 0;
-
 }
